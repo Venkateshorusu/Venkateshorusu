@@ -1,4 +1,4 @@
-<img src="" alt="profile">
+<img src="crio.do_Profile.png" alt="profile">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshorusu&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshorusu" /> </p>
 
