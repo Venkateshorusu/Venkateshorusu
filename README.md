@@ -1,8 +1,9 @@
-<img src=" " alt="profile">
+<p class="text-portfolio-text-medium text-sm md:text-xl font-semibold mb-1 mt-2 md:mt-0">Hi, my name is</p>
+<h1>Venkatesh</h1>
+<p>Hello! I am a software developer, and my passion lies in designing and implementing innovative software solutions that address real-world problems. I have expertise in various programming languages.</p>
+<!-- <img src=" " alt="profile"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshorusu&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshorusu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkateshorusu" alt="venkateshorusu" /></a> </p>
 
 - 🔭 I’m currently working on **Automation**
 
@@ -28,5 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkateshorusu&show_icons=true&locale=en&layout=compact" alt="venkateshorusu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkateshorusu&show_icons=true&locale=en" alt="venkateshorusu" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkateshorusu" alt="venkateshorusu" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshorusu&" alt="venkateshorusu" /></p>
