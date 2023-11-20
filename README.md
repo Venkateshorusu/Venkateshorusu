@@ -1,6 +1,6 @@
-<p class="text-portfolio-text-medium text-sm md:text-xl font-semibold mb-1 mt-2 md:mt-0">Hi, my name is</p>
+<p >Hi, my name is</p>
 <h1>Venkatesh</h1>
-<p>Hello! I am a software developer, and my passion lies in designing and implementing innovative software solutions that address real-world problems. I have expertise in various programming languages.</p>
+<p ></p>I am a software developer, and my passion lies in designing and implementing innovative software solutions that address real-world problems. I have expertise in various programming languages.</p>
 <!-- <img src=" " alt="profile"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshorusu&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshorusu" /> </p>
